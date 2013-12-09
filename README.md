@@ -1,6 +1,7 @@
 # XBox 360 Controller driver for Mac OS X
 
 Copyright &copy; 2006-2013 Colin Munro
+
 Original: http://tattiebogle.net/index.php/ProjectRoot/Xbox360Controller
 
 ## About
